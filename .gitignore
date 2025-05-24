@@ -1,0 +1,7 @@
+library
+lms
+*.o
+*.exe
+*.out
+*.log
+.vscode/
